@@ -6,8 +6,6 @@
 
 **Live:** https://zarif-gold.vercel.app
 
-![The ZarifGold hero section](docs/home.png)
-
 Built for ZarifGold, a maker of silk and wool carpets, handwoven in the Fergana Valley in the tradition of the Silk Road. The site
 introduces the founder and the weavers, shows the collection, and gives customers a way to ask
 questions and get in touch.
